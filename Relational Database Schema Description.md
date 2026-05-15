@@ -15,6 +15,8 @@ Stores registered user accounts for the application.
 |-----------|-----------|-----|----------|-------------|
 | id | INT AUTO_INCREMENT | PK | NOT NULL | Unique user identifier |
 | username | VARCHAR(60) | UK | NOT NULL | Unique display name |
+
+
 Relationships:
 • One-to-Many with pantry_items, favorites, ratings, history
 
