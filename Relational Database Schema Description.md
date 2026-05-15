@@ -21,7 +21,7 @@ Relationships:
 • One-to-Many with pantry_items, favorites, ratings, history
 
 ### cuisines
-Lookup table for world cuisines (66 entries including Pakistani, Italian, etc.).
+Lookup table for world cuisines (41 entries including Pakistani, Italian, etc.).
 
 | Attribute | Data Type | Key | Nullable | Description |
 |-----------|-----------|-----|----------|-------------|
@@ -69,6 +69,7 @@ Stores ingredients for each recipe with quantity details and importance ranking.
 
 Relationships:
 • Many-to-One with recipes (FK: recipe_id → recipes.id, ON DELETE CASCADE)
+. One-to-Many with ingredient_aliases
 
 
 ### ingredient_catalog
