@@ -209,10 +209,9 @@ Team
 
 Built by:
 
-Name	                      GitHub	           Role
-[Mahmood Ahmad Sajjad]	@MahmoodAh1	Backend, Database, Frontend
-   [Hoorain Saud]	      @Hoorain630	Backend, Database, Frontend
-
+| Name                 |                    GitHub                    |          Role               |
+| Mahmood Ahmad Sajjad | [@MahmoodAh1](https://github.com/MahmoodAh1) | Backend, Database, Frontend |
+| Hoorain Saud         | [@Hoorain630](https://github.com/Hoorain630) | Backend, Database, Frontend |
 
 
 RecipeRadar — because great meals start with what's already in your kitchen.
