@@ -1,7 +1,7 @@
 Recipe Radar
 Relational Database Schema Description
 1. Database Overview
-The recipe app database powers the Recipe Radar application. It consists of 9 interrelated tables organized into four functional groups:
+The recipe app database powers the Recipe Radar application. It consists of 10 interrelated tables organized into four functional groups:
 • Core Data: cuisines, recipes, ingredients “ the foundational recipe content”.
 • Ingredient Management: ingredient_catalog, ingredient_aliases.
 • User Interaction: users, pantry_items, favorites, ratings, history,  “personalization features including pantry tracking, favorites, ratings  and usage history”.
