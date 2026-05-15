@@ -204,8 +204,8 @@ Dataset
 | Dinner recipes         | 8,841        | meal_type = Dinner            |
 | Dessert recipes        | 3,109        | meal_type = Dessert           |
 
-Built by:
-|------|--------|------|
+Built by
 | Name                 |                    GitHub                    |          Role               |
+|------|--------|------|
 | Mahmood Ahmad Sajjad | [@MahmoodAh1](https://github.com/MahmoodAh1) | Backend, Database, Frontend |
 | Hoorain Saud         | [@Hoorain630](https://github.com/Hoorain630) | Backend, Database, Frontend |
