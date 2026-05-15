@@ -1,0 +1,1001 @@
+id,recipe_id,name,name_lc,amount,unit,quantity_text,importance
+1,13283,Eggs,eggs,NULL,NULL,4,3
+2,13283,Pecorino,pecorino,NULL,NULL,"1 cup",3
+3,13283,Guanciale,guanciale,NULL,NULL,150g,3
+4,13283,Spaghetti,spaghetti,NULL,NULL,400g,3
+5,13283,Salt,salt,NULL,NULL,"to taste",3
+6,13283,Oil,oil,NULL,NULL,"2 tbsp",3
+7,13284,"Minced Beef","minced beef",NULL,NULL,300g,3
+8,13284,"Minced Pork","minced pork",NULL,NULL,200g,3
+9,13284,Spaghetti,spaghetti,NULL,NULL,400g,3
+10,13284,Salt,salt,NULL,NULL,"to taste",3
+11,13284,Oil,oil,NULL,NULL,"2 tbsp",3
+12,13285,"Fresh Basil","fresh basil",NULL,NULL,"3 bunches",3
+13,13285,"Pine Nuts","pine nuts",NULL,NULL,"1/4 cup",3
+14,13285,Spaghetti,spaghetti,NULL,NULL,400g,3
+15,13285,Salt,salt,NULL,NULL,"to taste",3
+16,13285,Oil,oil,NULL,NULL,"2 tbsp",3
+17,13286,Tomatoes,tomatoes,NULL,NULL,"2 cups",3
+18,13286,"Chili Flakes","chili flakes",NULL,NULL,"1 tbsp",3
+19,13286,Spaghetti,spaghetti,NULL,NULL,400g,3
+20,13286,Salt,salt,NULL,NULL,"to taste",3
+21,13286,Oil,oil,NULL,NULL,"2 tbsp",3
+22,13287,Butter,butter,NULL,NULL,"1 cup",3
+23,13287,Parmesan,parmesan,NULL,NULL,"2 cups",3
+24,13287,Spaghetti,spaghetti,NULL,NULL,400g,3
+25,13287,Salt,salt,NULL,NULL,"to taste",3
+26,13287,Oil,oil,NULL,NULL,"2 tbsp",3
+27,13288,Guanciale,guanciale,NULL,NULL,150g,3
+28,13288,Tomatoes,tomatoes,NULL,NULL,"2 cups",3
+29,13288,Spaghetti,spaghetti,NULL,NULL,400g,3
+30,13288,Salt,salt,NULL,NULL,"to taste",3
+31,13288,Oil,oil,NULL,NULL,"2 tbsp",3
+32,13289,"Mixed Seafood","mixed seafood",NULL,NULL,500g,3
+33,13289,"White Wine","white wine",NULL,NULL,"1 cup",3
+34,13289,Spaghetti,spaghetti,NULL,NULL,400g,3
+35,13289,Salt,salt,NULL,NULL,"to taste",3
+36,13289,Oil,oil,NULL,NULL,"2 tbsp",3
+37,13290,Eggs,eggs,NULL,NULL,4,3
+38,13290,Pecorino,pecorino,NULL,NULL,"1 cup",3
+39,13290,Guanciale,guanciale,NULL,NULL,150g,3
+40,13290,Penne,penne,NULL,NULL,400g,3
+41,13290,Salt,salt,NULL,NULL,"to taste",3
+42,13290,Oil,oil,NULL,NULL,"2 tbsp",3
+43,13291,"Minced Beef","minced beef",NULL,NULL,300g,3
+44,13291,"Minced Pork","minced pork",NULL,NULL,200g,3
+45,13291,Penne,penne,NULL,NULL,400g,3
+46,13291,Salt,salt,NULL,NULL,"to taste",3
+47,13291,Oil,oil,NULL,NULL,"2 tbsp",3
+48,13292,"Fresh Basil","fresh basil",NULL,NULL,"3 bunches",3
+49,13292,"Pine Nuts","pine nuts",NULL,NULL,"1/4 cup",3
+50,13292,Penne,penne,NULL,NULL,400g,3
+51,13292,Salt,salt,NULL,NULL,"to taste",3
+52,13292,Oil,oil,NULL,NULL,"2 tbsp",3
+53,13293,Tomatoes,tomatoes,NULL,NULL,"2 cups",3
+54,13293,"Chili Flakes","chili flakes",NULL,NULL,"1 tbsp",3
+55,13293,Penne,penne,NULL,NULL,400g,3
+56,13293,Salt,salt,NULL,NULL,"to taste",3
+57,13293,Oil,oil,NULL,NULL,"2 tbsp",3
+58,13294,Butter,butter,NULL,NULL,"1 cup",3
+59,13294,Parmesan,parmesan,NULL,NULL,"2 cups",3
+60,13294,Penne,penne,NULL,NULL,400g,3
+61,13294,Salt,salt,NULL,NULL,"to taste",3
+62,13294,Oil,oil,NULL,NULL,"2 tbsp",3
+63,13295,Guanciale,guanciale,NULL,NULL,150g,3
+64,13295,Tomatoes,tomatoes,NULL,NULL,"2 cups",3
+65,13295,Penne,penne,NULL,NULL,400g,3
+66,13295,Salt,salt,NULL,NULL,"to taste",3
+67,13295,Oil,oil,NULL,NULL,"2 tbsp",3
+68,13296,"Mixed Seafood","mixed seafood",NULL,NULL,500g,3
+69,13296,"White Wine","white wine",NULL,NULL,"1 cup",3
+70,13296,Penne,penne,NULL,NULL,400g,3
+71,13296,Salt,salt,NULL,NULL,"to taste",3
+72,13296,Oil,oil,NULL,NULL,"2 tbsp",3
+73,13297,Eggs,eggs,NULL,NULL,4,3
+74,13297,Pecorino,pecorino,NULL,NULL,"1 cup",3
+75,13297,Guanciale,guanciale,NULL,NULL,150g,3
+76,13297,Linguine,linguine,NULL,NULL,400g,3
+77,13297,Salt,salt,NULL,NULL,"to taste",3
+78,13297,Oil,oil,NULL,NULL,"2 tbsp",3
+79,13298,"Minced Beef","minced beef",NULL,NULL,300g,3
+80,13298,"Minced Pork","minced pork",NULL,NULL,200g,3
+81,13298,Linguine,linguine,NULL,NULL,400g,3
+82,13298,Salt,salt,NULL,NULL,"to taste",3
+83,13298,Oil,oil,NULL,NULL,"2 tbsp",3
+84,13299,"Fresh Basil","fresh basil",NULL,NULL,"3 bunches",3
+85,13299,"Pine Nuts","pine nuts",NULL,NULL,"1/4 cup",3
+86,13299,Linguine,linguine,NULL,NULL,400g,3
+87,13299,Salt,salt,NULL,NULL,"to taste",3
+88,13299,Oil,oil,NULL,NULL,"2 tbsp",3
+89,13300,Tomatoes,tomatoes,NULL,NULL,"2 cups",3
+90,13300,"Chili Flakes","chili flakes",NULL,NULL,"1 tbsp",3
+91,13300,Linguine,linguine,NULL,NULL,400g,3
+92,13300,Salt,salt,NULL,NULL,"to taste",3
+93,13300,Oil,oil,NULL,NULL,"2 tbsp",3
+94,13301,Butter,butter,NULL,NULL,"1 cup",3
+95,13301,Parmesan,parmesan,NULL,NULL,"2 cups",3
+96,13301,Linguine,linguine,NULL,NULL,400g,3
+97,13301,Salt,salt,NULL,NULL,"to taste",3
+98,13301,Oil,oil,NULL,NULL,"2 tbsp",3
+99,13302,Guanciale,guanciale,NULL,NULL,150g,3
+100,13302,Tomatoes,tomatoes,NULL,NULL,"2 cups",3
+101,13302,Linguine,linguine,NULL,NULL,400g,3
+102,13302,Salt,salt,NULL,NULL,"to taste",3
+103,13302,Oil,oil,NULL,NULL,"2 tbsp",3
+104,13303,"Mixed Seafood","mixed seafood",NULL,NULL,500g,3
+105,13303,"White Wine","white wine",NULL,NULL,"1 cup",3
+106,13303,Linguine,linguine,NULL,NULL,400g,3
+107,13303,Salt,salt,NULL,NULL,"to taste",3
+108,13303,Oil,oil,NULL,NULL,"2 tbsp",3
+109,13304,Eggs,eggs,NULL,NULL,4,3
+110,13304,Pecorino,pecorino,NULL,NULL,"1 cup",3
+111,13304,Guanciale,guanciale,NULL,NULL,150g,3
+112,13304,Rigatoni,rigatoni,NULL,NULL,400g,3
+113,13304,Salt,salt,NULL,NULL,"to taste",3
+114,13304,Oil,oil,NULL,NULL,"2 tbsp",3
+115,13305,"Minced Beef","minced beef",NULL,NULL,300g,3
+116,13305,"Minced Pork","minced pork",NULL,NULL,200g,3
+117,13305,Rigatoni,rigatoni,NULL,NULL,400g,3
+118,13305,Salt,salt,NULL,NULL,"to taste",3
+119,13305,Oil,oil,NULL,NULL,"2 tbsp",3
+120,13306,"Fresh Basil","fresh basil",NULL,NULL,"3 bunches",3
+121,13306,"Pine Nuts","pine nuts",NULL,NULL,"1/4 cup",3
+122,13306,Rigatoni,rigatoni,NULL,NULL,400g,3
+123,13306,Salt,salt,NULL,NULL,"to taste",3
+124,13306,Oil,oil,NULL,NULL,"2 tbsp",3
+125,13307,Tomatoes,tomatoes,NULL,NULL,"2 cups",3
+126,13307,"Chili Flakes","chili flakes",NULL,NULL,"1 tbsp",3
+127,13307,Rigatoni,rigatoni,NULL,NULL,400g,3
+128,13307,Salt,salt,NULL,NULL,"to taste",3
+129,13307,Oil,oil,NULL,NULL,"2 tbsp",3
+130,13308,Butter,butter,NULL,NULL,"1 cup",3
+131,13308,Parmesan,parmesan,NULL,NULL,"2 cups",3
+132,13308,Rigatoni,rigatoni,NULL,NULL,400g,3
+133,13308,Salt,salt,NULL,NULL,"to taste",3
+134,13308,Oil,oil,NULL,NULL,"2 tbsp",3
+135,13309,Guanciale,guanciale,NULL,NULL,150g,3
+136,13309,Tomatoes,tomatoes,NULL,NULL,"2 cups",3
+137,13309,Rigatoni,rigatoni,NULL,NULL,400g,3
+138,13309,Salt,salt,NULL,NULL,"to taste",3
+139,13309,Oil,oil,NULL,NULL,"2 tbsp",3
+140,13310,"Mixed Seafood","mixed seafood",NULL,NULL,500g,3
+141,13310,"White Wine","white wine",NULL,NULL,"1 cup",3
+142,13310,Rigatoni,rigatoni,NULL,NULL,400g,3
+143,13310,Salt,salt,NULL,NULL,"to taste",3
+144,13310,Oil,oil,NULL,NULL,"2 tbsp",3
+145,13311,Eggs,eggs,NULL,NULL,4,3
+146,13311,Pecorino,pecorino,NULL,NULL,"1 cup",3
+147,13311,Guanciale,guanciale,NULL,NULL,150g,3
+148,13311,Fettuccine,fettuccine,NULL,NULL,400g,3
+149,13311,Salt,salt,NULL,NULL,"to taste",3
+150,13311,Oil,oil,NULL,NULL,"2 tbsp",3
+151,13312,"Minced Beef","minced beef",NULL,NULL,300g,3
+152,13312,"Minced Pork","minced pork",NULL,NULL,200g,3
+153,13312,Fettuccine,fettuccine,NULL,NULL,400g,3
+154,13312,Salt,salt,NULL,NULL,"to taste",3
+155,13312,Oil,oil,NULL,NULL,"2 tbsp",3
+156,13313,"Fresh Basil","fresh basil",NULL,NULL,"3 bunches",3
+157,13313,"Pine Nuts","pine nuts",NULL,NULL,"1/4 cup",3
+158,13313,Fettuccine,fettuccine,NULL,NULL,400g,3
+159,13313,Salt,salt,NULL,NULL,"to taste",3
+160,13313,Oil,oil,NULL,NULL,"2 tbsp",3
+161,13314,Tomatoes,tomatoes,NULL,NULL,"2 cups",3
+162,13314,"Chili Flakes","chili flakes",NULL,NULL,"1 tbsp",3
+163,13314,Fettuccine,fettuccine,NULL,NULL,400g,3
+164,13314,Salt,salt,NULL,NULL,"to taste",3
+165,13314,Oil,oil,NULL,NULL,"2 tbsp",3
+166,13315,Butter,butter,NULL,NULL,"1 cup",3
+167,13315,Parmesan,parmesan,NULL,NULL,"2 cups",3
+168,13315,Fettuccine,fettuccine,NULL,NULL,400g,3
+169,13315,Salt,salt,NULL,NULL,"to taste",3
+170,13315,Oil,oil,NULL,NULL,"2 tbsp",3
+171,13316,Guanciale,guanciale,NULL,NULL,150g,3
+172,13316,Tomatoes,tomatoes,NULL,NULL,"2 cups",3
+173,13316,Fettuccine,fettuccine,NULL,NULL,400g,3
+174,13316,Salt,salt,NULL,NULL,"to taste",3
+175,13316,Oil,oil,NULL,NULL,"2 tbsp",3
+176,13317,"Mixed Seafood","mixed seafood",NULL,NULL,500g,3
+177,13317,"White Wine","white wine",NULL,NULL,"1 cup",3
+178,13317,Fettuccine,fettuccine,NULL,NULL,400g,3
+179,13317,Salt,salt,NULL,NULL,"to taste",3
+180,13317,Oil,oil,NULL,NULL,"2 tbsp",3
+181,13318,Eggs,eggs,NULL,NULL,4,3
+182,13318,Pecorino,pecorino,NULL,NULL,"1 cup",3
+183,13318,Guanciale,guanciale,NULL,NULL,150g,3
+184,13318,Pappardelle,pappardelle,NULL,NULL,400g,3
+185,13318,Salt,salt,NULL,NULL,"to taste",3
+186,13318,Oil,oil,NULL,NULL,"2 tbsp",3
+187,13319,"Minced Beef","minced beef",NULL,NULL,300g,3
+188,13319,"Minced Pork","minced pork",NULL,NULL,200g,3
+189,13319,Pappardelle,pappardelle,NULL,NULL,400g,3
+190,13319,Salt,salt,NULL,NULL,"to taste",3
+191,13319,Oil,oil,NULL,NULL,"2 tbsp",3
+192,13320,"Fresh Basil","fresh basil",NULL,NULL,"3 bunches",3
+193,13320,"Pine Nuts","pine nuts",NULL,NULL,"1/4 cup",3
+194,13320,Pappardelle,pappardelle,NULL,NULL,400g,3
+195,13320,Salt,salt,NULL,NULL,"to taste",3
+196,13320,Oil,oil,NULL,NULL,"2 tbsp",3
+197,13321,Tomatoes,tomatoes,NULL,NULL,"2 cups",3
+198,13321,"Chili Flakes","chili flakes",NULL,NULL,"1 tbsp",3
+199,13321,Pappardelle,pappardelle,NULL,NULL,400g,3
+200,13321,Salt,salt,NULL,NULL,"to taste",3
+201,13321,Oil,oil,NULL,NULL,"2 tbsp",3
+202,13322,Butter,butter,NULL,NULL,"1 cup",3
+203,13322,Parmesan,parmesan,NULL,NULL,"2 cups",3
+204,13322,Pappardelle,pappardelle,NULL,NULL,400g,3
+205,13322,Salt,salt,NULL,NULL,"to taste",3
+206,13322,Oil,oil,NULL,NULL,"2 tbsp",3
+207,13323,Guanciale,guanciale,NULL,NULL,150g,3
+208,13323,Tomatoes,tomatoes,NULL,NULL,"2 cups",3
+209,13323,Pappardelle,pappardelle,NULL,NULL,400g,3
+210,13323,Salt,salt,NULL,NULL,"to taste",3
+211,13323,Oil,oil,NULL,NULL,"2 tbsp",3
+212,13324,"Mixed Seafood","mixed seafood",NULL,NULL,500g,3
+213,13324,"White Wine","white wine",NULL,NULL,"1 cup",3
+214,13324,Pappardelle,pappardelle,NULL,NULL,400g,3
+215,13324,Salt,salt,NULL,NULL,"to taste",3
+216,13324,Oil,oil,NULL,NULL,"2 tbsp",3
+217,13325,Eggs,eggs,NULL,NULL,4,3
+218,13325,Pecorino,pecorino,NULL,NULL,"1 cup",3
+219,13325,Guanciale,guanciale,NULL,NULL,150g,3
+220,13325,"Arborio Rice","arborio rice",NULL,NULL,"1.5 cups",3
+221,13325,Broth,broth,NULL,NULL,"4 cups",3
+222,13325,Salt,salt,NULL,NULL,"to taste",3
+223,13325,Oil,oil,NULL,NULL,"2 tbsp",3
+224,13326,"Minced Beef","minced beef",NULL,NULL,300g,3
+225,13326,"Minced Pork","minced pork",NULL,NULL,200g,3
+226,13326,"Arborio Rice","arborio rice",NULL,NULL,"1.5 cups",3
+227,13326,Broth,broth,NULL,NULL,"4 cups",3
+228,13326,Salt,salt,NULL,NULL,"to taste",3
+229,13326,Oil,oil,NULL,NULL,"2 tbsp",3
+230,13327,"Fresh Basil","fresh basil",NULL,NULL,"3 bunches",3
+231,13327,"Pine Nuts","pine nuts",NULL,NULL,"1/4 cup",3
+232,13327,"Arborio Rice","arborio rice",NULL,NULL,"1.5 cups",3
+233,13327,Broth,broth,NULL,NULL,"4 cups",3
+234,13327,Salt,salt,NULL,NULL,"to taste",3
+235,13327,Oil,oil,NULL,NULL,"2 tbsp",3
+236,13328,Tomatoes,tomatoes,NULL,NULL,"2 cups",3
+237,13328,"Chili Flakes","chili flakes",NULL,NULL,"1 tbsp",3
+238,13328,"Arborio Rice","arborio rice",NULL,NULL,"1.5 cups",3
+239,13328,Broth,broth,NULL,NULL,"4 cups",3
+240,13328,Salt,salt,NULL,NULL,"to taste",3
+241,13328,Oil,oil,NULL,NULL,"2 tbsp",3
+242,13329,Butter,butter,NULL,NULL,"1 cup",3
+243,13329,Parmesan,parmesan,NULL,NULL,"2 cups",3
+244,13329,"Arborio Rice","arborio rice",NULL,NULL,"1.5 cups",3
+245,13329,Broth,broth,NULL,NULL,"4 cups",3
+246,13329,Salt,salt,NULL,NULL,"to taste",3
+247,13329,Oil,oil,NULL,NULL,"2 tbsp",3
+248,13330,Guanciale,guanciale,NULL,NULL,150g,3
+249,13330,Tomatoes,tomatoes,NULL,NULL,"2 cups",3
+250,13330,"Arborio Rice","arborio rice",NULL,NULL,"1.5 cups",3
+251,13330,Broth,broth,NULL,NULL,"4 cups",3
+252,13330,Salt,salt,NULL,NULL,"to taste",3
+253,13330,Oil,oil,NULL,NULL,"2 tbsp",3
+254,13331,"Mixed Seafood","mixed seafood",NULL,NULL,500g,3
+255,13331,"White Wine","white wine",NULL,NULL,"1 cup",3
+256,13331,"Arborio Rice","arborio rice",NULL,NULL,"1.5 cups",3
+257,13331,Broth,broth,NULL,NULL,"4 cups",3
+258,13331,Salt,salt,NULL,NULL,"to taste",3
+259,13331,Oil,oil,NULL,NULL,"2 tbsp",3
+260,13332,Mutton,mutton,NULL,NULL,800g,3
+261,13332,Tomatoes,tomatoes,NULL,NULL,4,3
+262,13332,Cream,cream,NULL,NULL,"1/2 cup",3
+263,13332,Salt,salt,NULL,NULL,"to taste",3
+264,13332,Oil,oil,NULL,NULL,"2 tbsp",3
+265,13333,Paneer,paneer,NULL,NULL,500g,3
+266,13333,Tomatoes,tomatoes,NULL,NULL,4,3
+267,13333,Cream,cream,NULL,NULL,"1/2 cup",3
+268,13333,Salt,salt,NULL,NULL,"to taste",3
+269,13333,Oil,oil,NULL,NULL,"2 tbsp",3
+270,13334,Prawns,prawns,NULL,NULL,500g,3
+271,13334,Tomatoes,tomatoes,NULL,NULL,4,3
+272,13334,Cream,cream,NULL,NULL,"1/2 cup",3
+273,13334,Salt,salt,NULL,NULL,"to taste",3
+274,13334,Oil,oil,NULL,NULL,"2 tbsp",3
+275,13335,Chickpeas,chickpeas,NULL,NULL,"2 cups",3
+276,13335,Tomatoes,tomatoes,NULL,NULL,4,3
+277,13335,Cream,cream,NULL,NULL,"1/2 cup",3
+278,13335,Salt,salt,NULL,NULL,"to taste",3
+279,13335,Oil,oil,NULL,NULL,"2 tbsp",3
+280,13336,Lamb,lamb,NULL,NULL,800g,3
+281,13336,Tomatoes,tomatoes,NULL,NULL,4,3
+282,13336,Cream,cream,NULL,NULL,"1/2 cup",3
+283,13336,Salt,salt,NULL,NULL,"to taste",3
+284,13336,Oil,oil,NULL,NULL,"2 tbsp",3
+285,13337,"Fish Fillets","fish fillets",NULL,NULL,600g,3
+286,13337,Tomatoes,tomatoes,NULL,NULL,4,3
+287,13337,Cream,cream,NULL,NULL,"1/2 cup",3
+288,13337,Salt,salt,NULL,NULL,"to taste",3
+289,13337,Oil,oil,NULL,NULL,"2 tbsp",3
+290,13338,Chicken,chicken,NULL,NULL,800g,3
+291,13338,Yogurt,yogurt,NULL,NULL,"1 cup",3
+292,13338,Cashews,cashews,NULL,NULL,"1/2 cup",3
+293,13338,Salt,salt,NULL,NULL,"to taste",3
+294,13338,Oil,oil,NULL,NULL,"2 tbsp",3
+295,13339,Mutton,mutton,NULL,NULL,800g,3
+296,13339,Yogurt,yogurt,NULL,NULL,"1 cup",3
+297,13339,Cashews,cashews,NULL,NULL,"1/2 cup",3
+298,13339,Salt,salt,NULL,NULL,"to taste",3
+299,13339,Oil,oil,NULL,NULL,"2 tbsp",3
+300,13340,Paneer,paneer,NULL,NULL,500g,3
+301,13340,Yogurt,yogurt,NULL,NULL,"1 cup",3
+302,13340,Cashews,cashews,NULL,NULL,"1/2 cup",3
+303,13340,Salt,salt,NULL,NULL,"to taste",3
+304,13340,Oil,oil,NULL,NULL,"2 tbsp",3
+305,13341,Prawns,prawns,NULL,NULL,500g,3
+306,13341,Yogurt,yogurt,NULL,NULL,"1 cup",3
+307,13341,Cashews,cashews,NULL,NULL,"1/2 cup",3
+308,13341,Salt,salt,NULL,NULL,"to taste",3
+309,13341,Oil,oil,NULL,NULL,"2 tbsp",3
+310,13342,Chickpeas,chickpeas,NULL,NULL,"2 cups",3
+311,13342,Yogurt,yogurt,NULL,NULL,"1 cup",3
+312,13342,Cashews,cashews,NULL,NULL,"1/2 cup",3
+313,13342,Salt,salt,NULL,NULL,"to taste",3
+314,13342,Oil,oil,NULL,NULL,"2 tbsp",3
+315,13343,Lamb,lamb,NULL,NULL,800g,3
+316,13343,Yogurt,yogurt,NULL,NULL,"1 cup",3
+317,13343,Cashews,cashews,NULL,NULL,"1/2 cup",3
+318,13343,Salt,salt,NULL,NULL,"to taste",3
+319,13343,Oil,oil,NULL,NULL,"2 tbsp",3
+320,13344,"Fish Fillets","fish fillets",NULL,NULL,600g,3
+321,13344,Yogurt,yogurt,NULL,NULL,"1 cup",3
+322,13344,Cashews,cashews,NULL,NULL,"1/2 cup",3
+323,13344,Salt,salt,NULL,NULL,"to taste",3
+324,13344,Oil,oil,NULL,NULL,"2 tbsp",3
+325,13345,Chicken,chicken,NULL,NULL,800g,3
+326,13345,Vinegar,vinegar,NULL,NULL,"3 tbsp",3
+327,13345,"Kashmiri Chilies","kashmiri chilies",NULL,NULL,6,3
+328,13345,Salt,salt,NULL,NULL,"to taste",3
+329,13345,Oil,oil,NULL,NULL,"2 tbsp",3
+330,13346,Mutton,mutton,NULL,NULL,800g,3
+331,13346,Vinegar,vinegar,NULL,NULL,"3 tbsp",3
+332,13346,"Kashmiri Chilies","kashmiri chilies",NULL,NULL,6,3
+333,13346,Salt,salt,NULL,NULL,"to taste",3
+334,13346,Oil,oil,NULL,NULL,"2 tbsp",3
+335,13347,Paneer,paneer,NULL,NULL,500g,3
+336,13347,Vinegar,vinegar,NULL,NULL,"3 tbsp",3
+337,13347,"Kashmiri Chilies","kashmiri chilies",NULL,NULL,6,3
+338,13347,Salt,salt,NULL,NULL,"to taste",3
+339,13347,Oil,oil,NULL,NULL,"2 tbsp",3
+340,13348,Prawns,prawns,NULL,NULL,500g,3
+341,13348,Vinegar,vinegar,NULL,NULL,"3 tbsp",3
+342,13348,"Kashmiri Chilies","kashmiri chilies",NULL,NULL,6,3
+343,13348,Salt,salt,NULL,NULL,"to taste",3
+344,13348,Oil,oil,NULL,NULL,"2 tbsp",3
+345,13349,Chickpeas,chickpeas,NULL,NULL,"2 cups",3
+346,13349,Vinegar,vinegar,NULL,NULL,"3 tbsp",3
+347,13349,"Kashmiri Chilies","kashmiri chilies",NULL,NULL,6,3
+348,13349,Salt,salt,NULL,NULL,"to taste",3
+349,13349,Oil,oil,NULL,NULL,"2 tbsp",3
+350,13350,Lamb,lamb,NULL,NULL,800g,3
+351,13350,Vinegar,vinegar,NULL,NULL,"3 tbsp",3
+352,13350,"Kashmiri Chilies","kashmiri chilies",NULL,NULL,6,3
+353,13350,Salt,salt,NULL,NULL,"to taste",3
+354,13350,Oil,oil,NULL,NULL,"2 tbsp",3
+355,13351,"Fish Fillets","fish fillets",NULL,NULL,600g,3
+356,13351,Vinegar,vinegar,NULL,NULL,"3 tbsp",3
+357,13351,"Kashmiri Chilies","kashmiri chilies",NULL,NULL,6,3
+358,13351,Salt,salt,NULL,NULL,"to taste",3
+359,13351,Oil,oil,NULL,NULL,"2 tbsp",3
+360,13352,Chicken,chicken,NULL,NULL,800g,3
+361,13352,Spinach,spinach,NULL,NULL,"2 bunches",3
+362,13352,"Garam Masala","garam masala",NULL,NULL,"1 tsp",3
+363,13352,Salt,salt,NULL,NULL,"to taste",3
+364,13352,Oil,oil,NULL,NULL,"2 tbsp",3
+365,13353,Mutton,mutton,NULL,NULL,800g,3
+366,13353,Spinach,spinach,NULL,NULL,"2 bunches",3
+367,13353,"Garam Masala","garam masala",NULL,NULL,"1 tsp",3
+368,13353,Salt,salt,NULL,NULL,"to taste",3
+369,13353,Oil,oil,NULL,NULL,"2 tbsp",3
+370,13354,Paneer,paneer,NULL,NULL,500g,3
+371,13354,Spinach,spinach,NULL,NULL,"2 bunches",3
+372,13354,"Garam Masala","garam masala",NULL,NULL,"1 tsp",3
+373,13354,Salt,salt,NULL,NULL,"to taste",3
+374,13354,Oil,oil,NULL,NULL,"2 tbsp",3
+375,13355,Prawns,prawns,NULL,NULL,500g,3
+376,13355,Spinach,spinach,NULL,NULL,"2 bunches",3
+377,13355,"Garam Masala","garam masala",NULL,NULL,"1 tsp",3
+378,13355,Salt,salt,NULL,NULL,"to taste",3
+379,13355,Oil,oil,NULL,NULL,"2 tbsp",3
+380,13356,Chickpeas,chickpeas,NULL,NULL,"2 cups",3
+381,13356,Spinach,spinach,NULL,NULL,"2 bunches",3
+382,13356,"Garam Masala","garam masala",NULL,NULL,"1 tsp",3
+383,13356,Salt,salt,NULL,NULL,"to taste",3
+384,13356,Oil,oil,NULL,NULL,"2 tbsp",3
+385,13357,Lamb,lamb,NULL,NULL,800g,3
+386,13357,Spinach,spinach,NULL,NULL,"2 bunches",3
+387,13357,"Garam Masala","garam masala",NULL,NULL,"1 tsp",3
+388,13357,Salt,salt,NULL,NULL,"to taste",3
+389,13357,Oil,oil,NULL,NULL,"2 tbsp",3
+390,13358,"Fish Fillets","fish fillets",NULL,NULL,600g,3
+391,13358,Spinach,spinach,NULL,NULL,"2 bunches",3
+392,13358,"Garam Masala","garam masala",NULL,NULL,"1 tsp",3
+393,13358,Salt,salt,NULL,NULL,"to taste",3
+394,13358,Oil,oil,NULL,NULL,"2 tbsp",3
+395,13359,Chicken,chicken,NULL,NULL,800g,3
+396,13359,"Bell Peppers","bell peppers",NULL,NULL,2,3
+397,13359,Onions,onions,NULL,NULL,2,3
+398,13359,Salt,salt,NULL,NULL,"to taste",3
+399,13359,Oil,oil,NULL,NULL,"2 tbsp",3
+400,13360,Mutton,mutton,NULL,NULL,800g,3
+401,13360,"Bell Peppers","bell peppers",NULL,NULL,2,3
+402,13360,Onions,onions,NULL,NULL,2,3
+403,13360,Salt,salt,NULL,NULL,"to taste",3
+404,13360,Oil,oil,NULL,NULL,"2 tbsp",3
+405,13361,Paneer,paneer,NULL,NULL,500g,3
+406,13361,"Bell Peppers","bell peppers",NULL,NULL,2,3
+407,13361,Onions,onions,NULL,NULL,2,3
+408,13361,Salt,salt,NULL,NULL,"to taste",3
+409,13361,Oil,oil,NULL,NULL,"2 tbsp",3
+410,13362,Prawns,prawns,NULL,NULL,500g,3
+411,13362,"Bell Peppers","bell peppers",NULL,NULL,2,3
+412,13362,Onions,onions,NULL,NULL,2,3
+413,13362,Salt,salt,NULL,NULL,"to taste",3
+414,13362,Oil,oil,NULL,NULL,"2 tbsp",3
+415,13363,Chickpeas,chickpeas,NULL,NULL,"2 cups",3
+416,13363,"Bell Peppers","bell peppers",NULL,NULL,2,3
+417,13363,Onions,onions,NULL,NULL,2,3
+418,13363,Salt,salt,NULL,NULL,"to taste",3
+419,13363,Oil,oil,NULL,NULL,"2 tbsp",3
+420,13364,Lamb,lamb,NULL,NULL,800g,3
+421,13364,"Bell Peppers","bell peppers",NULL,NULL,2,3
+422,13364,Onions,onions,NULL,NULL,2,3
+423,13364,Salt,salt,NULL,NULL,"to taste",3
+424,13364,Oil,oil,NULL,NULL,"2 tbsp",3
+425,13365,"Fish Fillets","fish fillets",NULL,NULL,600g,3
+426,13365,"Bell Peppers","bell peppers",NULL,NULL,2,3
+427,13365,Onions,onions,NULL,NULL,2,3
+428,13365,Salt,salt,NULL,NULL,"to taste",3
+429,13365,Oil,oil,NULL,NULL,"2 tbsp",3
+430,13366,Chicken,chicken,NULL,NULL,800g,3
+431,13366,Coriander,coriander,NULL,NULL,"2 tbsp",3
+432,13366,Ghee,ghee,NULL,NULL,"3 tbsp",3
+433,13366,Salt,salt,NULL,NULL,"to taste",3
+434,13366,Oil,oil,NULL,NULL,"2 tbsp",3
+435,13367,Mutton,mutton,NULL,NULL,800g,3
+436,13367,Coriander,coriander,NULL,NULL,"2 tbsp",3
+437,13367,Ghee,ghee,NULL,NULL,"3 tbsp",3
+438,13367,Salt,salt,NULL,NULL,"to taste",3
+439,13367,Oil,oil,NULL,NULL,"2 tbsp",3
+440,13368,Paneer,paneer,NULL,NULL,500g,3
+441,13368,Coriander,coriander,NULL,NULL,"2 tbsp",3
+442,13368,Ghee,ghee,NULL,NULL,"3 tbsp",3
+443,13368,Salt,salt,NULL,NULL,"to taste",3
+444,13368,Oil,oil,NULL,NULL,"2 tbsp",3
+445,13369,Prawns,prawns,NULL,NULL,500g,3
+446,13369,Coriander,coriander,NULL,NULL,"2 tbsp",3
+447,13369,Ghee,ghee,NULL,NULL,"3 tbsp",3
+448,13369,Salt,salt,NULL,NULL,"to taste",3
+449,13369,Oil,oil,NULL,NULL,"2 tbsp",3
+450,13370,Chickpeas,chickpeas,NULL,NULL,"2 cups",3
+451,13370,Coriander,coriander,NULL,NULL,"2 tbsp",3
+452,13370,Ghee,ghee,NULL,NULL,"3 tbsp",3
+453,13370,Salt,salt,NULL,NULL,"to taste",3
+454,13370,Oil,oil,NULL,NULL,"2 tbsp",3
+455,13371,Lamb,lamb,NULL,NULL,800g,3
+456,13371,Coriander,coriander,NULL,NULL,"2 tbsp",3
+457,13371,Ghee,ghee,NULL,NULL,"3 tbsp",3
+458,13371,Salt,salt,NULL,NULL,"to taste",3
+459,13371,Oil,oil,NULL,NULL,"2 tbsp",3
+460,13372,"Fish Fillets","fish fillets",NULL,NULL,600g,3
+461,13372,Coriander,coriander,NULL,NULL,"2 tbsp",3
+462,13372,Ghee,ghee,NULL,NULL,"3 tbsp",3
+463,13372,Salt,salt,NULL,NULL,"to taste",3
+464,13372,Oil,oil,NULL,NULL,"2 tbsp",3
+465,13373,Chicken,chicken,NULL,NULL,800g,3
+466,13373,"Basmati Rice","basmati rice",NULL,NULL,"3 cups",3
+467,13373,Saffron,saffron,NULL,NULL,"1 pinch",3
+468,13373,Salt,salt,NULL,NULL,"to taste",3
+469,13373,Oil,oil,NULL,NULL,"2 tbsp",3
+470,13374,Mutton,mutton,NULL,NULL,800g,3
+471,13374,"Basmati Rice","basmati rice",NULL,NULL,"3 cups",3
+472,13374,Saffron,saffron,NULL,NULL,"1 pinch",3
+473,13374,Salt,salt,NULL,NULL,"to taste",3
+474,13374,Oil,oil,NULL,NULL,"2 tbsp",3
+475,13375,Paneer,paneer,NULL,NULL,500g,3
+476,13375,"Basmati Rice","basmati rice",NULL,NULL,"3 cups",3
+477,13375,Saffron,saffron,NULL,NULL,"1 pinch",3
+478,13375,Salt,salt,NULL,NULL,"to taste",3
+479,13375,Oil,oil,NULL,NULL,"2 tbsp",3
+480,13376,Prawns,prawns,NULL,NULL,500g,3
+481,13376,"Basmati Rice","basmati rice",NULL,NULL,"3 cups",3
+482,13376,Saffron,saffron,NULL,NULL,"1 pinch",3
+483,13376,Salt,salt,NULL,NULL,"to taste",3
+484,13376,Oil,oil,NULL,NULL,"2 tbsp",3
+485,13377,Chickpeas,chickpeas,NULL,NULL,"2 cups",3
+486,13377,"Basmati Rice","basmati rice",NULL,NULL,"3 cups",3
+487,13377,Saffron,saffron,NULL,NULL,"1 pinch",3
+488,13377,Salt,salt,NULL,NULL,"to taste",3
+489,13377,Oil,oil,NULL,NULL,"2 tbsp",3
+490,13378,Lamb,lamb,NULL,NULL,800g,3
+491,13378,"Basmati Rice","basmati rice",NULL,NULL,"3 cups",3
+492,13378,Saffron,saffron,NULL,NULL,"1 pinch",3
+493,13378,Salt,salt,NULL,NULL,"to taste",3
+494,13378,Oil,oil,NULL,NULL,"2 tbsp",3
+495,13379,"Fish Fillets","fish fillets",NULL,NULL,600g,3
+496,13379,"Basmati Rice","basmati rice",NULL,NULL,"3 cups",3
+497,13379,Saffron,saffron,NULL,NULL,"1 pinch",3
+498,13379,Salt,salt,NULL,NULL,"to taste",3
+499,13379,Oil,oil,NULL,NULL,"2 tbsp",3
+500,13380,"Pork Shoulder","pork shoulder",NULL,NULL,800g,3
+501,13380,Pineapple,pineapple,NULL,NULL,"1/2 cup",3
+502,13380,"Corn Tortillas","corn tortillas",NULL,NULL,12,3
+503,13380,Cilantro,cilantro,NULL,NULL,"1 bunch",3
+504,13380,Salt,salt,NULL,NULL,"to taste",3
+505,13380,Oil,oil,NULL,NULL,"2 tbsp",3
+506,13381,"Flank Steak","flank steak",NULL,NULL,800g,3
+507,13381,Lime,lime,NULL,NULL,2,3
+508,13381,"Corn Tortillas","corn tortillas",NULL,NULL,12,3
+509,13381,Cilantro,cilantro,NULL,NULL,"1 bunch",3
+510,13381,Salt,salt,NULL,NULL,"to taste",3
+511,13381,Oil,oil,NULL,NULL,"2 tbsp",3
+512,13382,"Pork Butt","pork butt",NULL,NULL,"1 kg",3
+513,13382,Lard,lard,NULL,NULL,"1/4 cup",3
+514,13382,"Corn Tortillas","corn tortillas",NULL,NULL,12,3
+515,13382,Cilantro,cilantro,NULL,NULL,"1 bunch",3
+516,13382,Salt,salt,NULL,NULL,"to taste",3
+517,13382,Oil,oil,NULL,NULL,"2 tbsp",3
+518,13383,"Chicken Breast","chicken breast",NULL,NULL,600g,3
+519,13383,Cumin,cumin,NULL,NULL,"1 tsp",3
+520,13383,"Corn Tortillas","corn tortillas",NULL,NULL,12,3
+521,13383,Cilantro,cilantro,NULL,NULL,"1 bunch",3
+522,13383,Salt,salt,NULL,NULL,"to taste",3
+523,13383,Oil,oil,NULL,NULL,"2 tbsp",3
+524,13384,"Beef Chuck","beef chuck",NULL,NULL,"1 kg",3
+525,13384,Cloves,cloves,NULL,NULL,3,3
+526,13384,"Corn Tortillas","corn tortillas",NULL,NULL,12,3
+527,13384,Cilantro,cilantro,NULL,NULL,"1 bunch",3
+528,13384,Salt,salt,NULL,NULL,"to taste",3
+529,13384,Oil,oil,NULL,NULL,"2 tbsp",3
+530,13385,Chorizo,chorizo,NULL,NULL,500g,3
+531,13385,Paprika,paprika,NULL,NULL,"1 tbsp",3
+532,13385,"Corn Tortillas","corn tortillas",NULL,NULL,12,3
+533,13385,Cilantro,cilantro,NULL,NULL,"1 bunch",3
+534,13385,Salt,salt,NULL,NULL,"to taste",3
+535,13385,Oil,oil,NULL,NULL,"2 tbsp",3
+536,13386,Shrimp,shrimp,NULL,NULL,500g,3
+537,13386,Butter,butter,NULL,NULL,"2 tbsp",3
+538,13386,"Corn Tortillas","corn tortillas",NULL,NULL,12,3
+539,13386,Cilantro,cilantro,NULL,NULL,"1 bunch",3
+540,13386,Salt,salt,NULL,NULL,"to taste",3
+541,13386,Oil,oil,NULL,NULL,"2 tbsp",3
+542,13387,"Pork Shoulder","pork shoulder",NULL,NULL,800g,3
+543,13387,Pineapple,pineapple,NULL,NULL,"1/2 cup",3
+544,13387,"Flour Tortillas","flour tortillas",NULL,NULL,4,3
+545,13387,Rice,rice,NULL,NULL,"1 cup",3
+546,13387,Salt,salt,NULL,NULL,"to taste",3
+547,13387,Oil,oil,NULL,NULL,"2 tbsp",3
+548,13388,"Flank Steak","flank steak",NULL,NULL,800g,3
+549,13388,Lime,lime,NULL,NULL,2,3
+550,13388,"Flour Tortillas","flour tortillas",NULL,NULL,4,3
+551,13388,Rice,rice,NULL,NULL,"1 cup",3
+552,13388,Salt,salt,NULL,NULL,"to taste",3
+553,13388,Oil,oil,NULL,NULL,"2 tbsp",3
+554,13389,"Pork Butt","pork butt",NULL,NULL,"1 kg",3
+555,13389,Lard,lard,NULL,NULL,"1/4 cup",3
+556,13389,"Flour Tortillas","flour tortillas",NULL,NULL,4,3
+557,13389,Rice,rice,NULL,NULL,"1 cup",3
+558,13389,Salt,salt,NULL,NULL,"to taste",3
+559,13389,Oil,oil,NULL,NULL,"2 tbsp",3
+560,13390,"Chicken Breast","chicken breast",NULL,NULL,600g,3
+561,13390,Cumin,cumin,NULL,NULL,"1 tsp",3
+562,13390,"Flour Tortillas","flour tortillas",NULL,NULL,4,3
+563,13390,Rice,rice,NULL,NULL,"1 cup",3
+564,13390,Salt,salt,NULL,NULL,"to taste",3
+565,13390,Oil,oil,NULL,NULL,"2 tbsp",3
+566,13391,"Beef Chuck","beef chuck",NULL,NULL,"1 kg",3
+567,13391,Cloves,cloves,NULL,NULL,3,3
+568,13391,"Flour Tortillas","flour tortillas",NULL,NULL,4,3
+569,13391,Rice,rice,NULL,NULL,"1 cup",3
+570,13391,Salt,salt,NULL,NULL,"to taste",3
+571,13391,Oil,oil,NULL,NULL,"2 tbsp",3
+572,13392,Chorizo,chorizo,NULL,NULL,500g,3
+573,13392,Paprika,paprika,NULL,NULL,"1 tbsp",3
+574,13392,"Flour Tortillas","flour tortillas",NULL,NULL,4,3
+575,13392,Rice,rice,NULL,NULL,"1 cup",3
+576,13392,Salt,salt,NULL,NULL,"to taste",3
+577,13392,Oil,oil,NULL,NULL,"2 tbsp",3
+578,13393,Shrimp,shrimp,NULL,NULL,500g,3
+579,13393,Butter,butter,NULL,NULL,"2 tbsp",3
+580,13393,"Flour Tortillas","flour tortillas",NULL,NULL,4,3
+581,13393,Rice,rice,NULL,NULL,"1 cup",3
+582,13393,Salt,salt,NULL,NULL,"to taste",3
+583,13393,Oil,oil,NULL,NULL,"2 tbsp",3
+584,13394,"Pork Shoulder","pork shoulder",NULL,NULL,800g,3
+585,13394,Pineapple,pineapple,NULL,NULL,"1/2 cup",3
+586,13394,"Corn Tortillas","corn tortillas",NULL,NULL,12,3
+587,13394,"Enchilada Sauce","enchilada sauce",NULL,NULL,"2 cups",3
+588,13394,Salt,salt,NULL,NULL,"to taste",3
+589,13394,Oil,oil,NULL,NULL,"2 tbsp",3
+590,13395,"Flank Steak","flank steak",NULL,NULL,800g,3
+591,13395,Lime,lime,NULL,NULL,2,3
+592,13395,"Corn Tortillas","corn tortillas",NULL,NULL,12,3
+593,13395,"Enchilada Sauce","enchilada sauce",NULL,NULL,"2 cups",3
+594,13395,Salt,salt,NULL,NULL,"to taste",3
+595,13395,Oil,oil,NULL,NULL,"2 tbsp",3
+596,13396,"Pork Butt","pork butt",NULL,NULL,"1 kg",3
+597,13396,Lard,lard,NULL,NULL,"1/4 cup",3
+598,13396,"Corn Tortillas","corn tortillas",NULL,NULL,12,3
+599,13396,"Enchilada Sauce","enchilada sauce",NULL,NULL,"2 cups",3
+600,13396,Salt,salt,NULL,NULL,"to taste",3
+601,13396,Oil,oil,NULL,NULL,"2 tbsp",3
+602,13397,"Chicken Breast","chicken breast",NULL,NULL,600g,3
+603,13397,Cumin,cumin,NULL,NULL,"1 tsp",3
+604,13397,"Corn Tortillas","corn tortillas",NULL,NULL,12,3
+605,13397,"Enchilada Sauce","enchilada sauce",NULL,NULL,"2 cups",3
+606,13397,Salt,salt,NULL,NULL,"to taste",3
+607,13397,Oil,oil,NULL,NULL,"2 tbsp",3
+608,13398,"Beef Chuck","beef chuck",NULL,NULL,"1 kg",3
+609,13398,Cloves,cloves,NULL,NULL,3,3
+610,13398,"Corn Tortillas","corn tortillas",NULL,NULL,12,3
+611,13398,"Enchilada Sauce","enchilada sauce",NULL,NULL,"2 cups",3
+612,13398,Salt,salt,NULL,NULL,"to taste",3
+613,13398,Oil,oil,NULL,NULL,"2 tbsp",3
+614,13399,Chorizo,chorizo,NULL,NULL,500g,3
+615,13399,Paprika,paprika,NULL,NULL,"1 tbsp",3
+616,13399,"Corn Tortillas","corn tortillas",NULL,NULL,12,3
+617,13399,"Enchilada Sauce","enchilada sauce",NULL,NULL,"2 cups",3
+618,13399,Salt,salt,NULL,NULL,"to taste",3
+619,13399,Oil,oil,NULL,NULL,"2 tbsp",3
+620,13400,Shrimp,shrimp,NULL,NULL,500g,3
+621,13400,Butter,butter,NULL,NULL,"2 tbsp",3
+622,13400,"Corn Tortillas","corn tortillas",NULL,NULL,12,3
+623,13400,"Enchilada Sauce","enchilada sauce",NULL,NULL,"2 cups",3
+624,13400,Salt,salt,NULL,NULL,"to taste",3
+625,13400,Oil,oil,NULL,NULL,"2 tbsp",3
+626,13401,"Pork Shoulder","pork shoulder",NULL,NULL,800g,3
+627,13401,Pineapple,pineapple,NULL,NULL,"1/2 cup",3
+628,13401,"Flour Tortillas","flour tortillas",NULL,NULL,4,3
+629,13401,"Oaxaca Cheese","oaxaca cheese",NULL,NULL,"2 cups",3
+630,13401,Salt,salt,NULL,NULL,"to taste",3
+631,13401,Oil,oil,NULL,NULL,"2 tbsp",3
+632,13402,"Flank Steak","flank steak",NULL,NULL,800g,3
+633,13402,Lime,lime,NULL,NULL,2,3
+634,13402,"Flour Tortillas","flour tortillas",NULL,NULL,4,3
+635,13402,"Oaxaca Cheese","oaxaca cheese",NULL,NULL,"2 cups",3
+636,13402,Salt,salt,NULL,NULL,"to taste",3
+637,13402,Oil,oil,NULL,NULL,"2 tbsp",3
+638,13403,"Pork Butt","pork butt",NULL,NULL,"1 kg",3
+639,13403,Lard,lard,NULL,NULL,"1/4 cup",3
+640,13403,"Flour Tortillas","flour tortillas",NULL,NULL,4,3
+641,13403,"Oaxaca Cheese","oaxaca cheese",NULL,NULL,"2 cups",3
+642,13403,Salt,salt,NULL,NULL,"to taste",3
+643,13403,Oil,oil,NULL,NULL,"2 tbsp",3
+644,13404,"Chicken Breast","chicken breast",NULL,NULL,600g,3
+645,13404,Cumin,cumin,NULL,NULL,"1 tsp",3
+646,13404,"Flour Tortillas","flour tortillas",NULL,NULL,4,3
+647,13404,"Oaxaca Cheese","oaxaca cheese",NULL,NULL,"2 cups",3
+648,13404,Salt,salt,NULL,NULL,"to taste",3
+649,13404,Oil,oil,NULL,NULL,"2 tbsp",3
+650,13405,"Beef Chuck","beef chuck",NULL,NULL,"1 kg",3
+651,13405,Cloves,cloves,NULL,NULL,3,3
+652,13405,"Flour Tortillas","flour tortillas",NULL,NULL,4,3
+653,13405,"Oaxaca Cheese","oaxaca cheese",NULL,NULL,"2 cups",3
+654,13405,Salt,salt,NULL,NULL,"to taste",3
+655,13405,Oil,oil,NULL,NULL,"2 tbsp",3
+656,13406,Chorizo,chorizo,NULL,NULL,500g,3
+657,13406,Paprika,paprika,NULL,NULL,"1 tbsp",3
+658,13406,"Flour Tortillas","flour tortillas",NULL,NULL,4,3
+659,13406,"Oaxaca Cheese","oaxaca cheese",NULL,NULL,"2 cups",3
+660,13406,Salt,salt,NULL,NULL,"to taste",3
+661,13406,Oil,oil,NULL,NULL,"2 tbsp",3
+662,13407,Shrimp,shrimp,NULL,NULL,500g,3
+663,13407,Butter,butter,NULL,NULL,"2 tbsp",3
+664,13407,"Flour Tortillas","flour tortillas",NULL,NULL,4,3
+665,13407,"Oaxaca Cheese","oaxaca cheese",NULL,NULL,"2 cups",3
+666,13407,Salt,salt,NULL,NULL,"to taste",3
+667,13407,Oil,oil,NULL,NULL,"2 tbsp",3
+668,13408,"Pork Shoulder","pork shoulder",NULL,NULL,800g,3
+669,13408,Pineapple,pineapple,NULL,NULL,"1/2 cup",3
+670,13408,"Masa Harina","masa harina",NULL,NULL,"3 cups",3
+671,13408,"Corn Husks","corn husks",NULL,NULL,20,3
+672,13408,Salt,salt,NULL,NULL,"to taste",3
+673,13408,Oil,oil,NULL,NULL,"2 tbsp",3
+674,13409,"Flank Steak","flank steak",NULL,NULL,800g,3
+675,13409,Lime,lime,NULL,NULL,2,3
+676,13409,"Masa Harina","masa harina",NULL,NULL,"3 cups",3
+677,13409,"Corn Husks","corn husks",NULL,NULL,20,3
+678,13409,Salt,salt,NULL,NULL,"to taste",3
+679,13409,Oil,oil,NULL,NULL,"2 tbsp",3
+680,13410,"Pork Butt","pork butt",NULL,NULL,"1 kg",3
+681,13410,Lard,lard,NULL,NULL,"1/4 cup",3
+682,13410,"Masa Harina","masa harina",NULL,NULL,"3 cups",3
+683,13410,"Corn Husks","corn husks",NULL,NULL,20,3
+684,13410,Salt,salt,NULL,NULL,"to taste",3
+685,13410,Oil,oil,NULL,NULL,"2 tbsp",3
+686,13411,"Chicken Breast","chicken breast",NULL,NULL,600g,3
+687,13411,Cumin,cumin,NULL,NULL,"1 tsp",3
+688,13411,"Masa Harina","masa harina",NULL,NULL,"3 cups",3
+689,13411,"Corn Husks","corn husks",NULL,NULL,20,3
+690,13411,Salt,salt,NULL,NULL,"to taste",3
+691,13411,Oil,oil,NULL,NULL,"2 tbsp",3
+692,13412,"Beef Chuck","beef chuck",NULL,NULL,"1 kg",3
+693,13412,Cloves,cloves,NULL,NULL,3,3
+694,13412,"Masa Harina","masa harina",NULL,NULL,"3 cups",3
+695,13412,"Corn Husks","corn husks",NULL,NULL,20,3
+696,13412,Salt,salt,NULL,NULL,"to taste",3
+697,13412,Oil,oil,NULL,NULL,"2 tbsp",3
+698,13413,Chorizo,chorizo,NULL,NULL,500g,3
+699,13413,Paprika,paprika,NULL,NULL,"1 tbsp",3
+700,13413,"Masa Harina","masa harina",NULL,NULL,"3 cups",3
+701,13413,"Corn Husks","corn husks",NULL,NULL,20,3
+702,13413,Salt,salt,NULL,NULL,"to taste",3
+703,13413,Oil,oil,NULL,NULL,"2 tbsp",3
+704,13414,Shrimp,shrimp,NULL,NULL,500g,3
+705,13414,Butter,butter,NULL,NULL,"2 tbsp",3
+706,13414,"Masa Harina","masa harina",NULL,NULL,"3 cups",3
+707,13414,"Corn Husks","corn husks",NULL,NULL,20,3
+708,13414,Salt,salt,NULL,NULL,"to taste",3
+709,13414,Oil,oil,NULL,NULL,"2 tbsp",3
+710,13415,"Pork Shoulder","pork shoulder",NULL,NULL,800g,3
+711,13415,Pineapple,pineapple,NULL,NULL,"1/2 cup",3
+712,13415,"Corn Tortillas","corn tortillas",NULL,NULL,8,3
+713,13415,"Refried Beans","refried beans",NULL,NULL,"1 cup",3
+714,13415,Salt,salt,NULL,NULL,"to taste",3
+715,13415,Oil,oil,NULL,NULL,"2 tbsp",3
+716,13416,"Flank Steak","flank steak",NULL,NULL,800g,3
+717,13416,Lime,lime,NULL,NULL,2,3
+718,13416,"Corn Tortillas","corn tortillas",NULL,NULL,8,3
+719,13416,"Refried Beans","refried beans",NULL,NULL,"1 cup",3
+720,13416,Salt,salt,NULL,NULL,"to taste",3
+721,13416,Oil,oil,NULL,NULL,"2 tbsp",3
+722,13417,"Pork Butt","pork butt",NULL,NULL,"1 kg",3
+723,13417,Lard,lard,NULL,NULL,"1/4 cup",3
+724,13417,"Corn Tortillas","corn tortillas",NULL,NULL,8,3
+725,13417,"Refried Beans","refried beans",NULL,NULL,"1 cup",3
+726,13417,Salt,salt,NULL,NULL,"to taste",3
+727,13417,Oil,oil,NULL,NULL,"2 tbsp",3
+728,13418,"Chicken Breast","chicken breast",NULL,NULL,600g,3
+729,13418,Cumin,cumin,NULL,NULL,"1 tsp",3
+730,13418,"Corn Tortillas","corn tortillas",NULL,NULL,8,3
+731,13418,"Refried Beans","refried beans",NULL,NULL,"1 cup",3
+732,13418,Salt,salt,NULL,NULL,"to taste",3
+733,13418,Oil,oil,NULL,NULL,"2 tbsp",3
+734,13419,"Beef Chuck","beef chuck",NULL,NULL,"1 kg",3
+735,13419,Cloves,cloves,NULL,NULL,3,3
+736,13419,"Corn Tortillas","corn tortillas",NULL,NULL,8,3
+737,13419,"Refried Beans","refried beans",NULL,NULL,"1 cup",3
+738,13419,Salt,salt,NULL,NULL,"to taste",3
+739,13419,Oil,oil,NULL,NULL,"2 tbsp",3
+740,13420,Chorizo,chorizo,NULL,NULL,500g,3
+741,13420,Paprika,paprika,NULL,NULL,"1 tbsp",3
+742,13420,"Corn Tortillas","corn tortillas",NULL,NULL,8,3
+743,13420,"Refried Beans","refried beans",NULL,NULL,"1 cup",3
+744,13420,Salt,salt,NULL,NULL,"to taste",3
+745,13420,Oil,oil,NULL,NULL,"2 tbsp",3
+746,13421,Shrimp,shrimp,NULL,NULL,500g,3
+747,13421,Butter,butter,NULL,NULL,"2 tbsp",3
+748,13421,"Corn Tortillas","corn tortillas",NULL,NULL,8,3
+749,13421,"Refried Beans","refried beans",NULL,NULL,"1 cup",3
+750,13421,Salt,salt,NULL,NULL,"to taste",3
+751,13421,Oil,oil,NULL,NULL,"2 tbsp",3
+752,13422,"Pork Shoulder","pork shoulder",NULL,NULL,800g,3
+753,13422,Pineapple,pineapple,NULL,NULL,"1/2 cup",3
+754,13422,"Bell Peppers","bell peppers",NULL,NULL,3,3
+755,13422,Onions,onions,NULL,NULL,2,3
+756,13422,Salt,salt,NULL,NULL,"to taste",3
+757,13422,Oil,oil,NULL,NULL,"2 tbsp",3
+758,13423,"Flank Steak","flank steak",NULL,NULL,800g,3
+759,13423,Lime,lime,NULL,NULL,2,3
+760,13423,"Bell Peppers","bell peppers",NULL,NULL,3,3
+761,13423,Onions,onions,NULL,NULL,2,3
+762,13423,Salt,salt,NULL,NULL,"to taste",3
+763,13423,Oil,oil,NULL,NULL,"2 tbsp",3
+764,13424,"Pork Butt","pork butt",NULL,NULL,"1 kg",3
+765,13424,Lard,lard,NULL,NULL,"1/4 cup",3
+766,13424,"Bell Peppers","bell peppers",NULL,NULL,3,3
+767,13424,Onions,onions,NULL,NULL,2,3
+768,13424,Salt,salt,NULL,NULL,"to taste",3
+769,13424,Oil,oil,NULL,NULL,"2 tbsp",3
+770,13425,"Chicken Breast","chicken breast",NULL,NULL,600g,3
+771,13425,Cumin,cumin,NULL,NULL,"1 tsp",3
+772,13425,"Bell Peppers","bell peppers",NULL,NULL,3,3
+773,13425,Onions,onions,NULL,NULL,2,3
+774,13425,Salt,salt,NULL,NULL,"to taste",3
+775,13425,Oil,oil,NULL,NULL,"2 tbsp",3
+776,13426,"Beef Chuck","beef chuck",NULL,NULL,"1 kg",3
+777,13426,Cloves,cloves,NULL,NULL,3,3
+778,13426,"Bell Peppers","bell peppers",NULL,NULL,3,3
+779,13426,Onions,onions,NULL,NULL,2,3
+780,13426,Salt,salt,NULL,NULL,"to taste",3
+781,13426,Oil,oil,NULL,NULL,"2 tbsp",3
+782,13427,Chorizo,chorizo,NULL,NULL,500g,3
+783,13427,Paprika,paprika,NULL,NULL,"1 tbsp",3
+784,13427,"Bell Peppers","bell peppers",NULL,NULL,3,3
+785,13427,Onions,onions,NULL,NULL,2,3
+786,13427,Salt,salt,NULL,NULL,"to taste",3
+787,13427,Oil,oil,NULL,NULL,"2 tbsp",3
+788,13428,Shrimp,shrimp,NULL,NULL,500g,3
+789,13428,Butter,butter,NULL,NULL,"2 tbsp",3
+790,13428,"Bell Peppers","bell peppers",NULL,NULL,3,3
+791,13428,Onions,onions,NULL,NULL,2,3
+792,13428,Salt,salt,NULL,NULL,"to taste",3
+793,13428,Oil,oil,NULL,NULL,"2 tbsp",3
+794,13429,Chicken,chicken,NULL,NULL,"1 whole",3
+795,13429,"Red Wine","red wine",NULL,NULL,"1 bottle",3
+796,13429,"Pearl Onions","pearl onions",NULL,NULL,"1 cup",3
+797,13429,Salt,salt,NULL,NULL,"to taste",3
+798,13429,Oil,oil,NULL,NULL,"2 tbsp",3
+799,13430,"Beef Chuck","beef chuck",NULL,NULL,800g,3
+800,13430,"Red Wine","red wine",NULL,NULL,"1 bottle",3
+801,13430,"Pearl Onions","pearl onions",NULL,NULL,"1 cup",3
+802,13430,Salt,salt,NULL,NULL,"to taste",3
+803,13430,Oil,oil,NULL,NULL,"2 tbsp",3
+804,13431,"Duck Breasts","duck breasts",NULL,NULL,4,3
+805,13431,"Red Wine","red wine",NULL,NULL,"1 bottle",3
+806,13431,"Pearl Onions","pearl onions",NULL,NULL,"1 cup",3
+807,13431,Salt,salt,NULL,NULL,"to taste",3
+808,13431,Oil,oil,NULL,NULL,"2 tbsp",3
+809,13432,"Salmon Fillets","salmon fillets",NULL,NULL,4,3
+810,13432,"Red Wine","red wine",NULL,NULL,"1 bottle",3
+811,13432,"Pearl Onions","pearl onions",NULL,NULL,"1 cup",3
+812,13432,Salt,salt,NULL,NULL,"to taste",3
+813,13432,Oil,oil,NULL,NULL,"2 tbsp",3
+814,13433,"Pork Tenderloin","pork tenderloin",NULL,NULL,800g,3
+815,13433,"Red Wine","red wine",NULL,NULL,"1 bottle",3
+816,13433,"Pearl Onions","pearl onions",NULL,NULL,"1 cup",3
+817,13433,Salt,salt,NULL,NULL,"to taste",3
+818,13433,Oil,oil,NULL,NULL,"2 tbsp",3
+819,13434,"Veal Chops","veal chops",NULL,NULL,4,3
+820,13434,"Red Wine","red wine",NULL,NULL,"1 bottle",3
+821,13434,"Pearl Onions","pearl onions",NULL,NULL,"1 cup",3
+822,13434,Salt,salt,NULL,NULL,"to taste",3
+823,13434,Oil,oil,NULL,NULL,"2 tbsp",3
+824,13435,"Mixed Vegetables","mixed vegetables",NULL,NULL,"1 kg",3
+825,13435,"Red Wine","red wine",NULL,NULL,"1 bottle",3
+826,13435,"Pearl Onions","pearl onions",NULL,NULL,"1 cup",3
+827,13435,Salt,salt,NULL,NULL,"to taste",3
+828,13435,Oil,oil,NULL,NULL,"2 tbsp",3
+829,13436,Chicken,chicken,NULL,NULL,"1 whole",3
+830,13436,"Burgundy Wine","burgundy wine",NULL,NULL,"2 cups",3
+831,13436,Carrots,carrots,NULL,NULL,2,3
+832,13436,Salt,salt,NULL,NULL,"to taste",3
+833,13436,Oil,oil,NULL,NULL,"2 tbsp",3
+834,13437,"Beef Chuck","beef chuck",NULL,NULL,800g,3
+835,13437,"Burgundy Wine","burgundy wine",NULL,NULL,"2 cups",3
+836,13437,Carrots,carrots,NULL,NULL,2,3
+837,13437,Salt,salt,NULL,NULL,"to taste",3
+838,13437,Oil,oil,NULL,NULL,"2 tbsp",3
+839,13438,"Duck Breasts","duck breasts",NULL,NULL,4,3
+840,13438,"Burgundy Wine","burgundy wine",NULL,NULL,"2 cups",3
+841,13438,Carrots,carrots,NULL,NULL,2,3
+842,13438,Salt,salt,NULL,NULL,"to taste",3
+843,13438,Oil,oil,NULL,NULL,"2 tbsp",3
+844,13439,"Salmon Fillets","salmon fillets",NULL,NULL,4,3
+845,13439,"Burgundy Wine","burgundy wine",NULL,NULL,"2 cups",3
+846,13439,Carrots,carrots,NULL,NULL,2,3
+847,13439,Salt,salt,NULL,NULL,"to taste",3
+848,13439,Oil,oil,NULL,NULL,"2 tbsp",3
+849,13440,"Pork Tenderloin","pork tenderloin",NULL,NULL,800g,3
+850,13440,"Burgundy Wine","burgundy wine",NULL,NULL,"2 cups",3
+851,13440,Carrots,carrots,NULL,NULL,2,3
+852,13440,Salt,salt,NULL,NULL,"to taste",3
+853,13440,Oil,oil,NULL,NULL,"2 tbsp",3
+854,13441,"Veal Chops","veal chops",NULL,NULL,4,3
+855,13441,"Burgundy Wine","burgundy wine",NULL,NULL,"2 cups",3
+856,13441,Carrots,carrots,NULL,NULL,2,3
+857,13441,Salt,salt,NULL,NULL,"to taste",3
+858,13441,Oil,oil,NULL,NULL,"2 tbsp",3
+859,13442,"Mixed Vegetables","mixed vegetables",NULL,NULL,"1 kg",3
+860,13442,"Burgundy Wine","burgundy wine",NULL,NULL,"2 cups",3
+861,13442,Carrots,carrots,NULL,NULL,2,3
+862,13442,Salt,salt,NULL,NULL,"to taste",3
+863,13442,Oil,oil,NULL,NULL,"2 tbsp",3
+864,13443,Chicken,chicken,NULL,NULL,"1 whole",3
+865,13443,Oranges,oranges,NULL,NULL,3,3
+866,13443,Sugar,sugar,NULL,NULL,"1/2 cup",3
+867,13443,Salt,salt,NULL,NULL,"to taste",3
+868,13443,Oil,oil,NULL,NULL,"2 tbsp",3
+869,13444,"Beef Chuck","beef chuck",NULL,NULL,800g,3
+870,13444,Oranges,oranges,NULL,NULL,3,3
+871,13444,Sugar,sugar,NULL,NULL,"1/2 cup",3
+872,13444,Salt,salt,NULL,NULL,"to taste",3
+873,13444,Oil,oil,NULL,NULL,"2 tbsp",3
+874,13445,"Duck Breasts","duck breasts",NULL,NULL,4,3
+875,13445,Oranges,oranges,NULL,NULL,3,3
+876,13445,Sugar,sugar,NULL,NULL,"1/2 cup",3
+877,13445,Salt,salt,NULL,NULL,"to taste",3
+878,13445,Oil,oil,NULL,NULL,"2 tbsp",3
+879,13446,"Salmon Fillets","salmon fillets",NULL,NULL,4,3
+880,13446,Oranges,oranges,NULL,NULL,3,3
+881,13446,Sugar,sugar,NULL,NULL,"1/2 cup",3
+882,13446,Salt,salt,NULL,NULL,"to taste",3
+883,13446,Oil,oil,NULL,NULL,"2 tbsp",3
+884,13447,"Pork Tenderloin","pork tenderloin",NULL,NULL,800g,3
+885,13447,Oranges,oranges,NULL,NULL,3,3
+886,13447,Sugar,sugar,NULL,NULL,"1/2 cup",3
+887,13447,Salt,salt,NULL,NULL,"to taste",3
+888,13447,Oil,oil,NULL,NULL,"2 tbsp",3
+889,13448,"Veal Chops","veal chops",NULL,NULL,4,3
+890,13448,Oranges,oranges,NULL,NULL,3,3
+891,13448,Sugar,sugar,NULL,NULL,"1/2 cup",3
+892,13448,Salt,salt,NULL,NULL,"to taste",3
+893,13448,Oil,oil,NULL,NULL,"2 tbsp",3
+894,13449,"Mixed Vegetables","mixed vegetables",NULL,NULL,"1 kg",3
+895,13449,Oranges,oranges,NULL,NULL,3,3
+896,13449,Sugar,sugar,NULL,NULL,"1/2 cup",3
+897,13449,Salt,salt,NULL,NULL,"to taste",3
+898,13449,Oil,oil,NULL,NULL,"2 tbsp",3
+899,13450,Chicken,chicken,NULL,NULL,"1 whole",3
+900,13450,Butter,butter,NULL,NULL,100g,3
+901,13450,Lemon,lemon,NULL,NULL,1,3
+902,13450,Salt,salt,NULL,NULL,"to taste",3
+903,13450,Oil,oil,NULL,NULL,"2 tbsp",3
+904,13451,"Beef Chuck","beef chuck",NULL,NULL,800g,3
+905,13451,Butter,butter,NULL,NULL,100g,3
+906,13451,Lemon,lemon,NULL,NULL,1,3
+907,13451,Salt,salt,NULL,NULL,"to taste",3
+908,13451,Oil,oil,NULL,NULL,"2 tbsp",3
+909,13452,"Duck Breasts","duck breasts",NULL,NULL,4,3
+910,13452,Butter,butter,NULL,NULL,100g,3
+911,13452,Lemon,lemon,NULL,NULL,1,3
+912,13452,Salt,salt,NULL,NULL,"to taste",3
+913,13452,Oil,oil,NULL,NULL,"2 tbsp",3
+914,13453,"Salmon Fillets","salmon fillets",NULL,NULL,4,3
+915,13453,Butter,butter,NULL,NULL,100g,3
+916,13453,Lemon,lemon,NULL,NULL,1,3
+917,13453,Salt,salt,NULL,NULL,"to taste",3
+918,13453,Oil,oil,NULL,NULL,"2 tbsp",3
+919,13454,"Pork Tenderloin","pork tenderloin",NULL,NULL,800g,3
+920,13454,Butter,butter,NULL,NULL,100g,3
+921,13454,Lemon,lemon,NULL,NULL,1,3
+922,13454,Salt,salt,NULL,NULL,"to taste",3
+923,13454,Oil,oil,NULL,NULL,"2 tbsp",3
+924,13455,"Veal Chops","veal chops",NULL,NULL,4,3
+925,13455,Butter,butter,NULL,NULL,100g,3
+926,13455,Lemon,lemon,NULL,NULL,1,3
+927,13455,Salt,salt,NULL,NULL,"to taste",3
+928,13455,Oil,oil,NULL,NULL,"2 tbsp",3
+929,13456,"Mixed Vegetables","mixed vegetables",NULL,NULL,"1 kg",3
+930,13456,Butter,butter,NULL,NULL,100g,3
+931,13456,Lemon,lemon,NULL,NULL,1,3
+932,13456,Salt,salt,NULL,NULL,"to taste",3
+933,13456,Oil,oil,NULL,NULL,"2 tbsp",3
+934,13457,Chicken,chicken,NULL,NULL,"1 whole",3
+935,13457,Tomatoes,tomatoes,NULL,NULL,4,3
+936,13457,"Black Olives","black olives",NULL,NULL,"1/2 cup",3
+937,13457,Salt,salt,NULL,NULL,"to taste",3
+938,13457,Oil,oil,NULL,NULL,"2 tbsp",3
+939,13458,"Beef Chuck","beef chuck",NULL,NULL,800g,3
+940,13458,Tomatoes,tomatoes,NULL,NULL,4,3
+941,13458,"Black Olives","black olives",NULL,NULL,"1/2 cup",3
+942,13458,Salt,salt,NULL,NULL,"to taste",3
+943,13458,Oil,oil,NULL,NULL,"2 tbsp",3
+944,13459,"Duck Breasts","duck breasts",NULL,NULL,4,3
+945,13459,Tomatoes,tomatoes,NULL,NULL,4,3
+946,13459,"Black Olives","black olives",NULL,NULL,"1/2 cup",3
+947,13459,Salt,salt,NULL,NULL,"to taste",3
+948,13459,Oil,oil,NULL,NULL,"2 tbsp",3
+949,13460,"Salmon Fillets","salmon fillets",NULL,NULL,4,3
+950,13460,Tomatoes,tomatoes,NULL,NULL,4,3
+951,13460,"Black Olives","black olives",NULL,NULL,"1/2 cup",3
+952,13460,Salt,salt,NULL,NULL,"to taste",3
+953,13460,Oil,oil,NULL,NULL,"2 tbsp",3
+954,13461,"Pork Tenderloin","pork tenderloin",NULL,NULL,800g,3
+955,13461,Tomatoes,tomatoes,NULL,NULL,4,3
+956,13461,"Black Olives","black olives",NULL,NULL,"1/2 cup",3
+957,13461,Salt,salt,NULL,NULL,"to taste",3
+958,13461,Oil,oil,NULL,NULL,"2 tbsp",3
+959,13462,"Veal Chops","veal chops",NULL,NULL,4,3
+960,13462,Tomatoes,tomatoes,NULL,NULL,4,3
+961,13462,"Black Olives","black olives",NULL,NULL,"1/2 cup",3
+962,13462,Salt,salt,NULL,NULL,"to taste",3
+963,13462,Oil,oil,NULL,NULL,"2 tbsp",3
+964,13463,"Mixed Vegetables","mixed vegetables",NULL,NULL,"1 kg",3
+965,13463,Tomatoes,tomatoes,NULL,NULL,4,3
+966,13463,"Black Olives","black olives",NULL,NULL,"1/2 cup",3
+967,13463,Salt,salt,NULL,NULL,"to taste",3
+968,13463,Oil,oil,NULL,NULL,"2 tbsp",3
+969,13464,Chicken,chicken,NULL,NULL,"1 whole",3
+970,13464,Butter,butter,NULL,NULL,200g,3
+971,13464,Tarragon,tarragon,NULL,NULL,"2 tbsp",3
+972,13464,Salt,salt,NULL,NULL,"to taste",3
+973,13464,Oil,oil,NULL,NULL,"2 tbsp",3
+974,13465,"Beef Chuck","beef chuck",NULL,NULL,800g,3
+975,13465,Butter,butter,NULL,NULL,200g,3
+976,13465,Tarragon,tarragon,NULL,NULL,"2 tbsp",3
+977,13465,Salt,salt,NULL,NULL,"to taste",3
+978,13465,Oil,oil,NULL,NULL,"2 tbsp",3
+979,13466,"Duck Breasts","duck breasts",NULL,NULL,4,3
+980,13466,Butter,butter,NULL,NULL,200g,3
+981,13466,Tarragon,tarragon,NULL,NULL,"2 tbsp",3
+982,13466,Salt,salt,NULL,NULL,"to taste",3
+983,13466,Oil,oil,NULL,NULL,"2 tbsp",3
+984,13467,"Salmon Fillets","salmon fillets",NULL,NULL,4,3
+985,13467,Butter,butter,NULL,NULL,200g,3
+986,13467,Tarragon,tarragon,NULL,NULL,"2 tbsp",3
+987,13467,Salt,salt,NULL,NULL,"to taste",3
+988,13467,Oil,oil,NULL,NULL,"2 tbsp",3
+989,13468,"Pork Tenderloin","pork tenderloin",NULL,NULL,800g,3
+990,13468,Butter,butter,NULL,NULL,200g,3
+991,13468,Tarragon,tarragon,NULL,NULL,"2 tbsp",3
+992,13468,Salt,salt,NULL,NULL,"to taste",3
+993,13468,Oil,oil,NULL,NULL,"2 tbsp",3
+994,13469,"Veal Chops","veal chops",NULL,NULL,4,3
+995,13469,Butter,butter,NULL,NULL,200g,3
+996,13469,Tarragon,tarragon,NULL,NULL,"2 tbsp",3
+997,13469,Salt,salt,NULL,NULL,"to taste",3
+998,13469,Oil,oil,NULL,NULL,"2 tbsp",3
+999,13470,"Mixed Vegetables","mixed vegetables",NULL,NULL,"1 kg",3
+1000,13470,Butter,butter,NULL,NULL,200g,3
