@@ -15,8 +15,6 @@ The app solves a simple everyday problem — "What can I cook with what I have?"
 
 Features
 
-Features
-
 | Feature | Description |
 |---------|-------------|
 | 🔍 Search by Name | Search recipes with cuisine and meal type filters. Paginated results. |
@@ -205,13 +203,9 @@ Dataset
 | Lunch recipes          | 1,720        | meal_type = Lunch             |
 | Dinner recipes         | 8,841        | meal_type = Dinner            |
 | Dessert recipes        | 3,109        | meal_type = Dessert           |
-Team
 
 Built by:
-
+|------|--------|------|
 | Name                 |                    GitHub                    |          Role               |
 | Mahmood Ahmad Sajjad | [@MahmoodAh1](https://github.com/MahmoodAh1) | Backend, Database, Frontend |
 | Hoorain Saud         | [@Hoorain630](https://github.com/Hoorain630) | Backend, Database, Frontend |
-
-
-RecipeRadar — because great meals start with what's already in your kitchen.
