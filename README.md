@@ -50,18 +50,19 @@ Database Schema
 The database is normalized to Third Normal Form (3NF). All transitive and partial dependencies have been eliminated.
 
 Table Relationships
+```
 cuisines
-    └── recipes          (cuisine_id → cuisines.id)
-            └── ingredients   (recipe_id → recipes.id)
-                    └── ingredient_aliases
-                            └── ingredient_catalog
+└── recipes                (cuisine_id → cuisines.id)
+        └── ingredients         (recipe_id → recipes.id)
+                └── ingredient_aliases
+                        └── ingredient_catalog
 
 users
-    ├── pantry_items     (user_id → users.id)
-    ├── favorites        (user_id → users.id, recipe_id → recipes.id)
-    ├── ratings          (user_id → users.id, recipe_id → recipes.id)
-    └── history          (user_id → users.id, recipe_id → recipes.id)
-
+├── pantry_items           (user_id → users.id)
+├── favorites              (user_id → users.id, recipe_id → recipes.id)
+├── ratings                (user_id → users.id, recipe_id → recipes.id)
+└── history                (user_id → users.id, recipe_id → recipes.id)
+```
 Tables
 | Table | Description |
 |-------|-------------|
@@ -79,6 +80,7 @@ Tables
  
 Project Structure
 
+```
 RecipeRadar/
 │
 ├── flask_app.py          # Flask backend — all API endpoints
@@ -87,6 +89,7 @@ RecipeRadar/
 ├── fix_ingredients.py    # Data repair script (re-imports missing ingredients)
 ├── combined.csv          # Source dataset (14,882 real recipes)
 └── README.md
+```
 
 Getting Started
 
