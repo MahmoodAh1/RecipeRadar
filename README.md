@@ -15,16 +15,18 @@ The app solves a simple everyday problem — "What can I cook with what I have?"
 
 Features
 
-Feature	Description
-🔍 Search by Name	Search recipes with cuisine and meal type filters. Paginated results.
-📅 Daily Meal Plan	Generate Breakfast, Lunch, Dinner + optional dessert from any cuisine.
-🗓️ Weekly Meal Plan	Plan all 7 days at once. One cuisine or random per day. View full day detail.
-🧠 Ingredient Matching	Enter what you have — get the best matching recipe with match percentage.
-🫙 My Pantry	Save staple ingredients. Auto-included in ingredient matching.
-🛒 Shopping List	Categorized list of what you need to buy vs what you already have.
-⭐ Favorites & Ratings	Save recipes and rate them 1–5 stars.
-🌍 Browse Cuisines	Explore 40+ world cuisines. Click any to browse its recipes.
+Features
 
+| Feature | Description |
+|---------|-------------|
+| 🔍 Search by Name | Search recipes with cuisine and meal type filters. Paginated results. |
+| 📅 Daily Meal Plan | Generate Breakfast, Lunch, Dinner + optional dessert from any cuisine. |
+| 🗓️ Weekly Meal Plan | Plan all 7 days at once. One cuisine or random per day. View full day detail. |
+| 🧠 Ingredient Matching | Enter what you have — get the best matching recipe with match percentage. |
+| 🫙 My Pantry | Save staple ingredients. Auto-included in ingredient matching. |
+| 🛒 Shopping List | Categorized list of what you need to buy vs what you already have. |
+| ⭐ Favorites & Ratings | Save recipes and rate them 1–5 stars. |
+| 🌍 Browse Cuisines | Explore 40+ world cuisines. Click any to browse its recipes. |
 Tech Stack
 
 Backend
@@ -61,17 +63,18 @@ users
     └── history          (user_id → users.id, recipe_id → recipes.id)
 
 Tables
-Table	Description
-cuisines	All cuisine names (Italian, Japanese, etc.)
-recipes	Core recipe data linked to a cuisine
-ingredients	Atomic ingredient rows per recipe
-ingredient_catalog	Canonical ingredient names with shopping categories
-ingredient_aliases	Maps alternate names → canonical (e.g. cilantro → coriander)
-users	User accounts (username-based login)
-pantry_items	User's saved pantry ingredients
-favorites	User's saved favorite recipes
-ratings	User ratings (1–5 stars) per recipe
-history	Recently suggested recipes to avoid repetition
+| Table | Description |
+|-------|-------------|
+| `cuisines` | All cuisine names (Italian, Japanese, etc.) |
+| `recipes` | Core recipe data linked to a cuisine |
+| `ingredients` | Atomic ingredient rows per recipe |
+| `ingredient_catalog` | Canonical ingredient names with shopping categories |
+| `ingredient_aliases` | Maps alternate names → canonical (e.g. cilantro → coriander) |
+| `users` | User accounts (username-based login) |
+| `pantry_items` | User's saved pantry ingredients |
+| `favorites` | User's saved favorite recipes |
+| `ratings` | User ratings (1–5 stars) per recipe |
+| `history` | Recently suggested recipes to avoid repetition |
 
  
 Project Structure
@@ -140,23 +143,24 @@ http://127.0.0.1:5000
  
 API Endpoints
 
-Method	Endpoint	Description
-POST	/api/login	Login or register a user
-POST	/api/logout	Logout current user
-GET	/api/cuisines	Get all cuisines with recipes
-GET	/api/recipes/search	Search recipes (q, cuisine, meal_type, page)
-GET	/api/recipes/<id>	Get full recipe detail with ingredients
-GET	/api/daily-plan	Generate daily meal plan
-GET	/api/weekly-plan	Generate weekly meal plan
-GET	/api/weekly-dessert	Get a dessert suggestion
-POST	/api/match-ingredients	Find best matching recipe for ingredients
-GET	/api/shopping-list/<id>	Get categorized shopping list for a recipe
-GET	/api/pantry	Get user's pantry items
-POST	/api/pantry	Add a pantry item
-DELETE	/api/pantry/<name>	Remove a pantry item
-GET	/api/favorites	Get user's saved favorites
-POST	/api/favorites/<id>	Toggle favorite (save/unsave)
-POST	/api/rate/<id>	Rate a recipe 1–5 stars
+| Method   | Endpoint | Description |
+|--------|----------|-------------|
+| `POST`   | `/api/login`              | Login or register a user |
+| `POST`   | `/api/logout`             | Logout current user |
+| `GET`    | `/api/cuisines`           | Get all cuisines with recipes |
+| `GET`    | `/api/recipes/search`     | Search recipes (q, cuisine, meal_type, page) |
+| `GET`    | `/api/recipes/<id>`       | Get full recipe detail with ingredients |
+| `GET`    | `/api/daily-plan`         | Generate daily meal plan |
+| `GET`    | `/api/weekly-plan`        | Generate weekly meal plan |
+| `GET`    | `/api/weekly-dessert`     | Get a dessert suggestion |
+| `POST`   | `/api/match-ingredients`  | Find best matching recipe for ingredients |
+| `GET`    | `/api/shopping-list/<id>` | Get categorized shopping list for a recipe |
+| `GET`    | `/api/pantry`             | Get user's pantry items |
+| `POST`   | `/api/pantry`             | Add a pantry item |
+| `DELETE` | `/api/pantry/<name>`      | Remove a pantry item |
+| `GET`    | `/api/favorites`          | Get user's saved favorites |
+| `POST`   | `/api/favorites/<id>`     | Toggle favorite (save/unsave) |
+| `POST`   | `/api/rate/<id>`          | Rate a recipe 1–5 stars |
 
  
 How It Works
@@ -186,18 +190,18 @@ Session Management
 
 Dataset
 
-Metric	Value	Notes
-Source	combined.csv	Real-world recipe data
-Total CSV rows	14,882	Before cleaning
-Recipes imported	14,349	After removing empty cuisines
-Total ingredients	133,000+	Across all recipes
-Cuisines	40	After removing empty ones
-Avg ingredients/recipe	~9	Calculated from DB
-Breakfast recipes	957	meal_type = Breakfast
-Lunch recipes	1,720	meal_type = Lunch
-Dinner recipes	8,841	meal_type = Dinner
-Dessert recipes	3,109	meal_type = Dessert
-
+|         Metric         |    Value     |            Notes              |
+|--------|-------|-------|
+| Source                 | combined.csv | Real-world recipe data        |
+| Total CSV rows         | 14,882       | Before cleaning               |
+| Recipes imported       | 14,349       | After removing empty cuisines |
+| Total ingredients      | 133,000+     | Across all recipes            |
+| Cuisines               | 40           | After removing empty ones     |
+| Avg ingredients/recipe | ~9           | Calculated from DB            |
+| Breakfast recipes      | 957          | meal_type = Breakfast         |
+| Lunch recipes          | 1,720        | meal_type = Lunch             |
+| Dinner recipes         | 8,841        | meal_type = Dinner            |
+| Dessert recipes        | 3,109        | meal_type = Dessert           |
 Team
 
 Built by:
